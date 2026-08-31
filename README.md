@@ -1,19 +1,22 @@
 # StudySwap
 
-StudySwap is a student marketplace for buying, selling, and exchanging used textbooks and study materials.
+StudySwap is a student-focused marketplace for buying, selling, and exchanging used textbooks, notes, and other academic materials. It helps university students save money while giving them a simple way to sell items they no longer need after each semester.
 
 ## Project Overview
 
-The platform helps university students save money by making it easier to buy and sell books they no longer need. It provides a simple and organized alternative to social media groups and expensive bookstores.
+Many students spend a lot of money on textbooks, but after the semester ends, those books often remain unused. StudySwap provides a centralized platform where students can list study materials, search for needed items, contact sellers, and complete transactions in a more organized and trusted environment than informal social media groups.
 
 ## Main Features
 
 - Student registration and login
-- Profile management
-- Listing creation and editing
-- Search and filtering
-- Contact between buyers and sellers
+- User profile management
+- Student verification
+- Create, edit, and delete listings
+- Search and filter by category, course, price, and condition
+- Listing details and seller information
+- Contact system between buyers and sellers
 - Purchase or exchange requests
+- Listing status tracking
 - Rating and review system
 
 ## Technologies
